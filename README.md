@@ -1,10 +1,9 @@
-##👨🏻‍💻 Eduardo Da Silva Lima 
+# 👨🏻‍💻 Eduardo Da Silva Lima
 
 **Estudante de Tecnologia | Desenvolvedor Web**
 
 Sou **estudante de tecnologia** e **desenvolvedor web**, com experiência no desenvolvimento de **aplicações e interfaces** utilizando **HTML, CSS**.
-
-
+---
 
 ## 🚀 Tecnologias
 
@@ -14,6 +13,7 @@ Sou **estudante de tecnologia** e **desenvolvedor web**, com experiência no des
 <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 
+---
 
 ## 📫 Contato
 
