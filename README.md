@@ -2,8 +2,9 @@
 
 **Estudante de Tecnologia | Desenvolvedor Web**
 
-Sou **estudante de tecnologia** e *desenvolvedor web*, com experiência no desenvolvimento de **aplicações e interfaces** utilizando **HTML, CSS**.
+Sou **estudante de tecnologia** e **desenvolvedor web**, com experiência no desenvolvimento de **aplicações e interfaces** utilizando **HTML, CSS**.
 ---
+
 
 ## 🚀 Tecnologias
 
