@@ -10,7 +10,7 @@ Sou **estudante de tecnologia** e **desenvolvedor web**, com experiência no des
 
 <div style="display: inline_block"><br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,figma,vscode,visualstudioreact,mysqldark,pythondark,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,figma,vscode,visualstudio,react,mysql,python,cs,dotnet)](https://skillicons.dev)
 
 
 ---
